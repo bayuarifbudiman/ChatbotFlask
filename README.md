@@ -3,7 +3,7 @@
 <b> Simple Description </b>
 <p>Chatbot Flask basicly is a chatbot with an endpoint api that has a goal to 
 create an personal chat bot to tell someone about me or describe myself
-based on what people ask for to this chatbot</p>
+based on what people asked to this chatbot</p>
 
 <b> The Objective:</b>
 <ul>
